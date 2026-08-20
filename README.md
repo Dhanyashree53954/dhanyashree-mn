@@ -1,30 +1,37 @@
-# Hi, I'm Dhanyashree! 👋
+# Hi, I'm Dhanyashree 👋
 
-### MSc AI & Robotics | University of Hertfordshire | Graduating Sept 2026
+### MSc AI & Robotics — University of Hertfordshire
 
-I'm a postgraduate AI and Robotics student passionate about 
-building intelligent systems that help people. My work spans 
-NLP, LLMs, computer vision, and socially assistive robotics.
+I build intelligent systems that help people. My work spans NLP, large language models, retrieval-augmented generation, and computer vision.
 
-## 🔭 What I'm working on
-- 🤖 MSc Project: Conversational AI for Eldercare using NLP & LLMs
-- 🧠 Research: Affective Human-Robot Mutual Learning in SAR
-- 📚 Currently learning: HuggingFace Transformers, PyTorch
+## Projects
 
-## 🛠️ Tech Stack
-Python | TensorFlow | Keras | NLP | LLMs | Computer Vision
-Pandas | NumPy | MATLAB | Simulink | Webots | Azure | Power BI
+**[Research Paper Q&A — RAG System](https://github.com/dhanyashree-mn/research-paper-rag-qa)**  
+Semantic search over academic PDFs. LangChain, FAISS, sentence-transformers, Streamlit.
 
-## 🏆 Certifications
+**[Conversational AI for Eldercare](https://github.com/dhanyashree-mn/conversational-ai-eldercare-nlp)**  
+MSc major project — dialogue system using transformer-based LLMs and intent classification.
+
+**[Facial Emotion Recognition for Autism Support](https://github.com/dhanyashree-mn/facial-emotion-recognition-autism)**  
+CNN-based real-time image classification in TensorFlow/Keras.
+
+**[Affective Human-Robot Mutual Learning](https://github.com/dhanyashree-mn/affective-hri-mutual-learning-research)**  
+Research paper on Differential Outcomes Training in socially assistive robotics.
+
+**[Feature Selection in Malware Detection](https://github.com/dhanyashree-mn/ml-malware-detection-feature-selection-review)**  
+Systematic literature review applying the PICO framework.
+
+## Tech
+
+`Python` `PyTorch` `TensorFlow` `Keras` `LangChain` `FAISS` `HuggingFace` `Pandas` `NumPy` `SQL` `Streamlit` `Azure`
+
+## Certifications
+
 - Microsoft Azure AI Fundamentals (AI-900)
-- BCG Generative AI Virtual Experience (Forage)
+- BCG X Generative AI Virtual Experience
 
-## 📂 My Projects
-- 🤖 Conversational AI for Eldercare (NLP & LLMs)
-- 👁️ Facial Emotion Recognition for Autism Support
-- 🧠 Affective Human-Robot Mutual Learning (Dissertation)
+## Contact
 
-## 📫 Connect with me
-- 💼 LinkedIn: linkedin.com/in/dhanyashree-mn-4aba94340
-- 📧 Email: dhanyashreedhanya53954@gmail.com
-- 📍 London, UK — Open to Graduate AI Roles from Oct 2026
+[LinkedIn](https://www.linkedin.com/in/dhanyashree-mn-4aba94340) · dhanyashreedhanya53954@gmail.com · London, UK
+
+**Open to graduate AI/ML roles.**
